@@ -1,2 +1,1 @@
-# pruebacurso
-esta es una prueba
+esta es una prueba de como crear un repositorio y clonar
